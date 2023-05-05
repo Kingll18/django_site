@@ -1,0 +1,259 @@
+INFO 2023-04-04 17:53:06,688 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-04-04 17:55:57,576 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-04-04 17:58:47,718 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-04-04 18:01:36,809 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-04-04 18:03:18,597 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-04-04 18:07:47,044 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-04-04 18:07:51,096 basehttp 154 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2023-04-04 18:07:51,152 basehttp 154 "GET /user/ HTTP/1.1" 200 100
+INFO 2023-04-04 18:07:51,162 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2023-04-04 18:07:51,198 basehttp 154 "GET /browse_histories/ HTTP/1.1" 200 1084
+INFO 2023-04-04 18:07:57,893 basehttp 154 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1290
+INFO 2023-04-04 18:08:07,101 basehttp 154 "GET /admin/ HTTP/1.1" 200 10449
+WARNING 2023-04-04 18:08:07,289 log 228 Not Found: /favicon.ico
+WARNING 2023-04-04 18:08:07,289 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 9094
+INFO 2023-04-04 18:08:11,065 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8704
+INFO 2023-04-04 18:08:11,127 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:13,924 basehttp 154 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 34316
+INFO 2023-04-04 18:08:13,968 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:17,182 basehttp 154 "POST /admin/goods/sku/16/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:17,238 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8950
+INFO 2023-04-04 18:08:17,259 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:18,287 basehttp 154 "GET /admin/goods/sku/15/change/ HTTP/1.1" 200 34310
+INFO 2023-04-04 18:08:18,304 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:19,869 basehttp 154 "POST /admin/goods/sku/15/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:19,919 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8949
+INFO 2023-04-04 18:08:19,936 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:20,878 basehttp 154 "GET /admin/goods/sku/14/change/ HTTP/1.1" 200 34312
+INFO 2023-04-04 18:08:20,896 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:22,017 basehttp 154 "POST /admin/goods/sku/14/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:22,071 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8950
+INFO 2023-04-04 18:08:22,090 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:23,267 basehttp 154 "GET /admin/goods/sku/13/change/ HTTP/1.1" 200 34310
+INFO 2023-04-04 18:08:23,285 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:24,464 basehttp 154 "POST /admin/goods/sku/13/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:24,520 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8949
+INFO 2023-04-04 18:08:24,539 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:25,487 basehttp 154 "GET /admin/goods/sku/12/change/ HTTP/1.1" 200 34310
+INFO 2023-04-04 18:08:25,504 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:26,723 basehttp 154 "POST /admin/goods/sku/12/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:26,776 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8949
+INFO 2023-04-04 18:08:26,793 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:27,840 basehttp 154 "GET /admin/goods/sku/11/change/ HTTP/1.1" 200 34312
+INFO 2023-04-04 18:08:27,855 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:29,104 basehttp 154 "POST /admin/goods/sku/11/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:29,157 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8950
+INFO 2023-04-04 18:08:29,174 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:31,294 basehttp 154 "GET /admin/goods/sku/11/change/ HTTP/1.1" 200 34312
+INFO 2023-04-04 18:08:31,311 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:32,572 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8704
+INFO 2023-04-04 18:08:33,722 basehttp 154 "GET /admin/goods/sku/10/change/ HTTP/1.1" 200 34312
+INFO 2023-04-04 18:08:33,740 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:34,958 basehttp 154 "POST /admin/goods/sku/10/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:35,013 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8950
+INFO 2023-04-04 18:08:35,030 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:36,268 basehttp 154 "GET /admin/goods/sku/9/change/ HTTP/1.1" 200 34307
+INFO 2023-04-04 18:08:36,286 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:37,390 basehttp 154 "POST /admin/goods/sku/9/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:37,444 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8947
+INFO 2023-04-04 18:08:37,460 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:38,444 basehttp 154 "GET /admin/goods/sku/8/change/ HTTP/1.1" 200 34274
+INFO 2023-04-04 18:08:38,462 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:39,625 basehttp 154 "POST /admin/goods/sku/8/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:39,675 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8933
+INFO 2023-04-04 18:08:39,693 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:40,495 basehttp 154 "GET /admin/goods/sku/7/change/ HTTP/1.1" 200 34272
+INFO 2023-04-04 18:08:40,512 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:41,552 basehttp 154 "POST /admin/goods/sku/7/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:41,601 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8932
+INFO 2023-04-04 18:08:41,619 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:42,438 basehttp 154 "GET /admin/goods/sku/6/change/ HTTP/1.1" 200 34286
+INFO 2023-04-04 18:08:42,453 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:43,601 basehttp 154 "POST /admin/goods/sku/6/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:43,650 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8939
+INFO 2023-04-04 18:08:43,668 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:44,861 basehttp 154 "GET /admin/goods/sku/5/change/ HTTP/1.1" 200 34284
+INFO 2023-04-04 18:08:44,877 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:45,885 basehttp 154 "POST /admin/goods/sku/5/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:45,934 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8938
+INFO 2023-04-04 18:08:45,951 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:47,979 basehttp 154 "GET /admin/goods/sku/4/change/ HTTP/1.1" 200 34274
+INFO 2023-04-04 18:08:47,996 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:49,283 basehttp 154 "POST /admin/goods/sku/4/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:49,330 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8933
+INFO 2023-04-04 18:08:49,347 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:50,932 basehttp 154 "GET /admin/goods/sku/3/change/ HTTP/1.1" 200 34272
+INFO 2023-04-04 18:08:50,951 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:52,150 basehttp 154 "POST /admin/goods/sku/3/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:52,203 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8932
+INFO 2023-04-04 18:08:52,221 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:53,288 basehttp 154 "GET /admin/goods/sku/2/change/ HTTP/1.1" 200 34306
+INFO 2023-04-04 18:08:53,304 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:54,453 basehttp 154 "POST /admin/goods/sku/2/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:54,504 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8913
+INFO 2023-04-04 18:08:54,525 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:55,569 basehttp 154 "GET /admin/goods/sku/1/change/ HTTP/1.1" 200 34300
+INFO 2023-04-04 18:08:55,585 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:08:57,668 basehttp 154 "POST /admin/goods/sku/1/change/ HTTP/1.1" 302 0
+INFO 2023-04-04 18:08:57,717 basehttp 154 "GET /admin/goods/sku/ HTTP/1.1" 200 8910
+INFO 2023-04-04 18:08:57,735 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:09:01,058 basehttp 154 "GET /categories/157/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 442
+INFO 2023-04-04 18:09:01,910 basehttp 154 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2023-04-04 18:09:02,948 basehttp 154 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2023-04-04 18:09:02,956 basehttp 154 "POST /carts/ HTTP/1.1" 201 38
+INFO 2023-04-04 18:09:04,698 basehttp 154 "GET /carts/ HTTP/1.1" 200 211
+INFO 2023-04-04 18:09:05,445 basehttp 154 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2023-04-04 18:09:05,445 basehttp 154 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2023-04-04 18:09:05,463 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 200 222
+INFO 2023-04-04 18:09:05,477 basehttp 154 "GET /addresses/ HTTP/1.1" 200 307
+INFO 2023-04-04 18:14:08,247 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-04-04 18:15:12,651 autoreload 217 E:\Python_test\django_new_site\venv\Lib\site-packages\xadmin\plugins\importexport.py changed, reloading.
+INFO 2023-04-04 18:15:15,892 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-04-04 18:15:22,586 autoreload 217 E:\Python_test\django_new_site\venv\Lib\site-packages\xadmin\plugins\importexport.py changed, reloading.
+INFO 2023-04-04 18:15:24,918 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-04-04 18:15:33,627 autoreload 217 E:\Python_test\django_new_site\venv\Lib\site-packages\xadmin\plugins\importexport.py changed, reloading.
+INFO 2023-04-04 18:15:36,970 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-04-04 18:17:32,527 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-04-04 18:17:43,589 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 17532
+INFO 2023-04-04 18:17:43,632 basehttp 154 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+INFO 2023-04-04 18:17:43,650 basehttp 154 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+INFO 2023-04-04 18:17:43,651 basehttp 154 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8376
+INFO 2023-04-04 18:17:43,651 basehttp 154 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+INFO 2023-04-04 18:17:43,660 basehttp 154 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 200 790
+INFO 2023-04-04 18:17:43,677 basehttp 154 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+INFO 2023-04-04 18:17:43,678 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+INFO 2023-04-04 18:17:43,680 basehttp 154 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240196
+INFO 2023-04-04 18:17:43,680 basehttp 154 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+INFO 2023-04-04 18:17:43,684 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+INFO 2023-04-04 18:17:43,698 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+INFO 2023-04-04 18:17:43,716 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:17:43,724 basehttp 154 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+INFO 2023-04-04 18:17:43,725 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+INFO 2023-04-04 18:17:43,725 basehttp 154 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4165
+INFO 2023-04-04 18:17:43,726 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+INFO 2023-04-04 18:17:43,726 basehttp 154 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+INFO 2023-04-04 18:17:43,728 basehttp 154 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 200 3208
+INFO 2023-04-04 18:17:43,749 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 200 1000
+INFO 2023-04-04 18:17:43,750 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+INFO 2023-04-04 18:17:44,573 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 17532
+INFO 2023-04-04 18:17:44,658 basehttp 154 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+INFO 2023-04-04 18:17:50,983 basehttp 154 "GET /xadmin/goods/goodscategory/ HTTP/1.1" 200 154677
+INFO 2023-04-04 18:17:51,008 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 200 2319
+INFO 2023-04-04 18:17:51,010 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 200 529
+INFO 2023-04-04 18:17:51,011 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 200 4198
+INFO 2023-04-04 18:17:51,011 basehttp 154 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 200 3763
+INFO 2023-04-04 18:17:51,013 basehttp 154 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 200 1105
+INFO 2023-04-04 18:17:51,015 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:17:51,017 basehttp 154 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 200 1948
+INFO 2023-04-04 18:17:51,017 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 200 1990
+INFO 2023-04-04 18:17:52,139 basehttp 154 "GET /xadmin/goods/goodschannel/ HTTP/1.1" 200 42201
+INFO 2023-04-04 18:17:52,156 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:17:53,042 basehttp 154 "GET /xadmin/goods/goods/ HTTP/1.1" 200 33084
+INFO 2023-04-04 18:17:53,061 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:17:54,279 basehttp 154 "GET /xadmin/goods/goods/3/update/ HTTP/1.1" 200 95122
+INFO 2023-04-04 18:17:54,306 basehttp 154 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 200 8425
+INFO 2023-04-04 18:17:54,308 basehttp 154 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 200 10602
+INFO 2023-04-04 18:17:54,312 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.quick-form.js HTTP/1.1" 200 7546
+INFO 2023-04-04 18:17:54,312 basehttp 154 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 200 19226
+INFO 2023-04-04 18:17:54,319 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 200 694
+INFO 2023-04-04 18:17:54,321 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:17:54,324 basehttp 154 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 1498
+INFO 2023-04-04 18:17:54,325 basehttp 154 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 200 98602
+INFO 2023-04-04 18:17:54,326 basehttp 154 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 200 104906
+INFO 2023-04-04 18:17:54,328 basehttp 154 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 200 1344
+INFO 2023-04-04 18:17:54,333 basehttp 154 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 746737
+INFO 2023-04-04 18:17:54,752 basehttp 154 "GET /static/ckeditor/ckeditor/config.js?t=L4KA HTTP/1.1" 200 338
+INFO 2023-04-04 18:17:54,768 basehttp 154 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=L4KA HTTP/1.1" 200 18052
+INFO 2023-04-04 18:17:54,768 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=L4KA HTTP/1.1" 200 48483
+INFO 2023-04-04 18:17:54,780 basehttp 154 "GET /static/ckeditor/ckeditor/styles.js?t=L4KA HTTP/1.1" 200 5579
+INFO 2023-04-04 18:17:54,793 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=L4KA HTTP/1.1" 200 381
+INFO 2023-04-04 18:17:54,793 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 200 1145
+INFO 2023-04-04 18:17:54,793 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=L4KA HTTP/1.1" 200 419
+INFO 2023-04-04 18:17:54,795 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/dialog/styles/dialog.css HTTP/1.1" 200 249
+INFO 2023-04-04 18:17:54,798 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 200 1513
+INFO 2023-04-04 18:17:54,821 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=cae20318d4 HTTP/1.1" 200 12533
+INFO 2023-04-04 18:17:54,863 basehttp 154 "GET /static/ckeditor/ckeditor/contents.css?t=L4KA HTTP/1.1" 200 3094
+INFO 2023-04-04 18:17:59,058 basehttp 154 "GET /xadmin/goods/brand/ HTTP/1.1" 200 30254
+INFO 2023-04-04 18:17:59,079 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:17:59,980 basehttp 154 "GET /xadmin/goods/sku/ HTTP/1.1" 200 71316
+INFO 2023-04-04 18:17:59,994 basehttp 154 "GET /static/xadmin/css/xadmin.widget.editable.css HTTP/1.1" 200 1099
+INFO 2023-04-04 18:18:00,000 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.editable.js HTTP/1.1" 200 6151
+INFO 2023-04-04 18:18:00,007 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2023-04-04 18:18:03,530 basehttp 154 "GET /xadmin/goods/sku/16/patch/?fields=price HTTP/1.1" 200 472
+INFO 2023-04-04 18:18:08,232 basehttp 154 "POST /xadmin/goods/sku/16/patch/ HTTP/1.1" 200 89
+INFO 2023-05-05 19:10:09,511 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-05-05 19:10:21,216 basehttp 154 "OPTIONS /addresses/ HTTP/1.1" 200 0
+WARNING 2023-05-05 19:10:21,231 log 228 Unauthorized: /addresses/
+INFO 2023-05-05 19:10:21,231 basehttp 154 "GET /areas/ HTTP/1.1" 200 1204
+WARNING 2023-05-05 19:10:21,231 basehttp 154 "GET /addresses/ HTTP/1.1" 401 35
+INFO 2023-05-05 19:10:31,291 basehttp 154 "OPTIONS /user/ HTTP/1.1" 200 0
+WARNING 2023-05-05 19:10:31,304 log 228 Unauthorized: /user/
+WARNING 2023-05-05 19:10:31,304 basehttp 154 "GET /user/ HTTP/1.1" 401 35
+WARNING 2023-05-05 19:10:35,167 log 228 Unauthorized: /user/
+WARNING 2023-05-05 19:10:35,168 basehttp 154 "GET /user/ HTTP/1.1" 401 35
+WARNING 2023-05-05 19:11:25,238 log 228 Unauthorized: /user/
+WARNING 2023-05-05 19:11:25,239 basehttp 154 "GET /user/ HTTP/1.1" 401 35
+INFO 2023-05-05 19:11:38,896 basehttp 154 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:11:39,005 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 232
+INFO 2023-05-05 19:11:39,112 basehttp 154 "GET /user/ HTTP/1.1" 200 100
+INFO 2023-05-05 19:11:39,123 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:11:39,160 basehttp 154 "GET /browse_histories/ HTTP/1.1" 200 1084
+INFO 2023-05-05 19:12:16,312 basehttp 154 "GET /usernames/test1/count/ HTTP/1.1" 200 30
+INFO 2023-05-05 19:12:29,731 basehttp 154 "GET /mobiles/15578319530/count/ HTTP/1.1" 200 34
+INFO 2023-05-05 19:12:34,759 views 30 205467
+INFO 2023-05-05 19:12:34,765 basehttp 154 "GET /mobiles/15578319530/count/ HTTP/1.1" 200 34
+INFO 2023-05-05 19:12:34,775 basehttp 154 "GET /sms_codes/15578319530/ HTTP/1.1" 200 16
+INFO 2023-05-05 19:13:02,268 basehttp 154 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:13:02,276 basehttp 154 "GET /usernames/test1/count/ HTTP/1.1" 200 30
+INFO 2023-05-05 19:13:02,279 basehttp 154 "GET /mobiles/15578319530/count/ HTTP/1.1" 200 34
+INFO 2023-05-05 19:13:02,394 basehttp 154 "POST /users/ HTTP/1.1" 201 222
+INFO 2023-05-05 19:13:04,048 basehttp 154 "GET /user/ HTTP/1.1" 200 82
+INFO 2023-05-05 19:13:04,068 basehttp 154 "GET /browse_histories/ HTTP/1.1" 200 2
+INFO 2023-05-05 19:14:02,119 basehttp 154 "OPTIONS /email/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:14:07,491 basehttp 154 "PUT /email/ HTTP/1.1" 200 36
+INFO 2023-05-05 19:14:38,721 basehttp 154 "GET /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTY4MzI4NTI0MiwiZXhwIjoxNjgzMzcxNjQyfQ.eyJ1c2VyX2lkIjo1LCJlbWFpbCI6IjE0NTI2Nzk4NjBAcXEuY29tIn0.pDjh1eLu2_AbUbtWO9UBwAdiKBsn6NbwMYqd19tPOCw1upPdnbbJ31XW54NhAWLvYI_JaLaTKoJC-0AbYY23zQ HTTP/1.1" 200 16
+INFO 2023-05-05 19:14:43,565 basehttp 154 "GET /user/ HTTP/1.1" 200 98
+INFO 2023-05-05 19:14:43,607 basehttp 154 "GET /browse_histories/ HTTP/1.1" 200 2
+INFO 2023-05-05 19:16:01,239 basehttp 154 "GET /addresses/ HTTP/1.1" 200 65
+INFO 2023-05-05 19:16:01,520 basehttp 154 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2023-05-05 19:16:13,821 basehttp 154 "GET /areas/450000/ HTTP/1.1" 200 518
+INFO 2023-05-05 19:16:19,543 basehttp 154 "GET /areas/440000/ HTTP/1.1" 200 734
+INFO 2023-05-05 19:16:22,877 basehttp 154 "GET /areas/440300/ HTTP/1.1" 200 239
+INFO 2023-05-05 19:16:42,960 basehttp 154 "POST /addresses/ HTTP/1.1" 201 229
+INFO 2023-05-05 19:16:48,458 basehttp 154 "OPTIONS /addresses/3/status/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:16:48,468 basehttp 154 "PUT /addresses/3/status/ HTTP/1.1" 200 16
+INFO 2023-05-05 19:17:01,748 basehttp 154 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1290
+INFO 2023-05-05 19:17:03,081 basehttp 154 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2023-05-05 19:21:29,827 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-05-05 19:23:41,711 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-05-05 19:29:24,693 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-05-05 19:41:52,969 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-05-05 19:50:31,286 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-05-05 19:52:28,403 autoreload 597 Watching for file changes with StatReloader
+INFO 2023-05-05 19:52:37,419 basehttp 154 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:52:37,419 basehttp 154 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2023-05-05 19:52:37,479 basehttp 154 "GET /addresses/ HTTP/1.1" 200 291
+INFO 2023-05-05 19:52:40,395 basehttp 154 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:52:40,423 basehttp 154 "GET /user/ HTTP/1.1" 200 98
+INFO 2023-05-05 19:52:40,427 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:52:40,449 basehttp 154 "GET /browse_histories/ HTTP/1.1" 200 233
+INFO 2023-05-05 19:53:06,318 basehttp 154 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1290
+INFO 2023-05-05 19:53:07,364 basehttp 154 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2023-05-05 19:53:10,006 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:53:10,017 basehttp 154 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2023-05-05 19:53:10,794 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:53:10,804 basehttp 154 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2023-05-05 19:53:10,973 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:53:10,984 basehttp 154 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2023-05-05 19:53:11,168 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:53:11,179 basehttp 154 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2023-05-05 19:53:11,337 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:53:11,347 basehttp 154 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2023-05-05 19:53:11,545 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:53:11,555 basehttp 154 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2023-05-05 19:53:11,747 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:53:11,760 basehttp 154 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2023-05-05 19:53:20,625 basehttp 154 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2023-05-05 19:53:20,644 basehttp 154 "GET /carts/ HTTP/1.1" 200 2
+INFO 2023-05-05 19:53:22,265 basehttp 154 "GET /user/ HTTP/1.1" 200 98
+INFO 2023-05-05 19:53:22,278 basehttp 154 "GET /browse_histories/ HTTP/1.1" 200 464
